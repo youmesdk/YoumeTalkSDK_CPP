@@ -144,3 +144,8 @@ API调用的基本流程如下图所示，具体接口说明参见API接口手�
 
 
 以上回调事件通知状态码更多详细请查看对应的状态码
+
+### 备注：
+[详细接口介绍可查看“Cocos2d-API手册.md”文档](https://github.com/youmesdk/YoumeTalkSDK_CPP/blob/master/Cocos2d-API%E6%89%8B%E5%86%8C.md)
+
+实际Demo可点击此处下载->[Youme Talk Demo for Cocos2d CPP](https://github.com/youmesdk/YoumeTalkDemo_CPP)
